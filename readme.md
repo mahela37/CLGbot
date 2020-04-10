@@ -16,6 +16,6 @@
 - selenium 
 - beautifulsoup4
 
-#Recommended Python IDE: PyCharm
+# Recommended Python IDE: PyCharm
 - https://www.jetbrains.com/pycharm/
 - Makes the GIT workflow much easier
