@@ -1,24 +1,18 @@
-git clone: clones a git repository to your local
-eg:
-git clone https://github.com/mahela37/CLGbot.git
+# git clone: clones a git repository to your local 
+- eg: git clone https://github.com/mahela37/CLGbot.git
 
+# Submitting code:
 
-submitting code:
+1. git add -A
+    - adds all files to commit
+2. git commit -A    
+    - do a commit with a meaningful commit message
+3. git push     
+    - pushes files to cloud
 
-git add -A
-adds all files to commit
+# Retrieving latest code: git pull
 
-git commit -A
-do a commit
+# Python libraries used in the project: 
+- selenium 
+- beautifulsoup4
 
-git push
-pushes files to cloud
-
-
-retrieving latest code:
-git pull
-
-
-Libraries used in the project:
-selenium
-beautifulsoup4
