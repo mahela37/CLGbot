@@ -48,7 +48,7 @@
 <li class="instagram"><a href="https://www.instagram.com/classactioncanada/" target="_blank"><img src="/images/instagram.png" border="0"><span>Follow</span></a></li>
 
 </ul></div>
-		<div class="language"><a href="/Recours-Collectif/Liste-des-recours-collectifs?">Français</a></div>
+		<div class="language"><a href="/Recours-Collectif/Liste-des-recours-collectifs?">Franï¿½ais</a></div>
     </div>
     <div class="headerimg"><img src="/images/header_people.png" alt="class members" border="0"></div>
 </header>
@@ -153,7 +153,7 @@ $('#searchform .go').click(function(){
       Active      </span></div>
     <div class="image"><a href="/Class-Action/List-of-Class-Actions/Lac-Megantic-Class-Action"><img src="/images/og/lac-megantic_en.jpg" border="0"></a></div>
     <div class="label"><a href="/Class-Action/List-of-Class-Actions/Lac-Megantic-Class-Action">
-      Lac-Mégantic Class Action      </a>
+      Lac-Mï¿½gantic Class Action      </a>
           </div>
   </div>
           <div id="Privacy" class="cat Privacy">
@@ -586,13 +586,13 @@ $('#searchform .go').click(function(){
 </div>
     <footer>
 	<ul>
-    	<li><a href="/Recours-Collectif/Liste-des-recours-collectifs?">Français</a></li>
+    	<li><a href="/Recours-Collectif/Liste-des-recours-collectifs?">Franï¿½ais</a></li>
     	<li><strong>1-888-909-7863</strong></li>
         <li><a href="mailto:info@clg.org">info@clg.org</a></li>
 		<li><a href="/Class-Action/Contact-Us">Contact</a></li>
         <li><a href="/Class-Action/Terms-Conditions">Terms &amp; Conditions</a></li>
         <li><a href="/Class-Action/FAQ">FAQ</a></li>
-		<li>©2010-2020&nbsp;Consumer Law Group</li>
+		<li>ï¿½2010-2020&nbsp;Consumer Law Group</li>
         <li><a href="http://www.maisc.com" target="_blank" class="maisc">MAISC</a></li>
     	<li class="ASST"><a href="http://asstlawyers.com/" target="_blank" class="maisc"><span>In association with</span><br><img alt="Arias Sanguinetti Stahle &amp; Torrijos | Trial Lawyers" src="/images/ASST-LOGO-458.png?v2" border="0"></a></li>
 	</ul>
