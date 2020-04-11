@@ -1,0 +1,9 @@
+FirstName:MrBo
+LastName:Bo
+Email:mrbobo@bunnymail.com
+Address:Playboy Bunny House
+City:Surrey
+Province:BC
+Country:CA
+PostalCode:BUNNNY
+HomePhone:999-999-9999

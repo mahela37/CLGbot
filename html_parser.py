@@ -24,5 +24,4 @@ def parseMainPage():
                     category=class_type
             except:
                 """"""
-
     return div_array
